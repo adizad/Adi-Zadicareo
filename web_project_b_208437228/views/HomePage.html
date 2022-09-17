@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/global.css">
+    <script defer src="../static/GeoLocation.js"></script>
+    <title>ParkMeTLV</title>
+
+</head>
+<body>
+    <div class="main-container">
+        <header class="header">
+            <h1>ParkMeTLV</h1>
+            <div class="hamburger" id= "hamburger">
+                <button id="burger__label"></button>
+            </div>
+            <nav class="navbar">
+                <ul class="navbar__list">
+                    <li class="navbar__item">
+                        <a href="./HomePage.html" class="navbar__link">Home Page</a>
+                    </li>
+                    <li class="navbar__item">
+                        <a href="./ContactUs.html" class="navbar__link">Contact Us</a>
+                    </li>
+                </ul>
+            </nav> 
+            <img src="../static/TLV.jpg" alt="Logo" class="logo">
+        </header>
+        <div class="container">
+            <h1 class="mobile__headline">ParkMeTLV</h1>
+            <form id="form" method="POST">
+                <lable for="radius">Distance: </lable>
+                <input type="number" min="0" max="10" step="0.1" id="radius" name="radius" placeholder="radius">   
+                <lable for="CarType">Choose Your Car Type From The List: </lable>
+                <select name="CarType" id="CarType">
+                    <option selected value="normal">Normal Car</option>
+                    <option value="disable">Disable Car</option>
+                    <option value="electric">Electric Car</option>
+                    <option value="member">Member Car</option>
+                </select><br>
+                <button id="allowGeo" onclick="GetLocation()" >Allow Location Access</button>
+                <input type="checkbox" id="checkbox" disabled>
+            <button class="button" onclick="searchPark()">P</button>
+            </form>
+        </div>
+        <footer>
+            Made By Adi Zadicareo
+        </footer>
+    </div>
+</body>
+
+</html>
+
