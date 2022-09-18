@@ -3,6 +3,7 @@ const hamburger = document.getElementById('hamburger');
 
 const coordinates = new google.maps.LatLng(params.get('x'), params.get('y'));
 
+//create a google maps map 
 const myOptions = {
     zoom: 15,
     center: coordinates,
@@ -11,6 +12,7 @@ const myOptions = {
 
 const map = new google.maps.Map(document.getElementById("map"), myOptions);
 
+//put a marker of the user position 
 const measle = new google.maps.Marker({
     position: coordinates,
     map: map,
@@ -21,6 +23,7 @@ const measle = new google.maps.Marker({
     }
 });
 
+//add text table on the map
 var marker = new google.maps.Marker({
     position: coordinates,
     map: map,
@@ -37,6 +40,7 @@ var marker = new google.maps.Marker({
     }
 });
 
+//haburger when there is a mobile screen
 hamburger.addEventListener('click', e => {
   hamburger.classList.toggle('show');
 })

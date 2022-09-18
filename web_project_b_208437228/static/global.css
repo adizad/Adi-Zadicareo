@@ -1,8 +1,6 @@
 :root{
     --BlueTitels:rgb(36, 36, 139);
     --Blue:rgb(91, 128, 251);
-    --BackGround: rgb(244, 243, 225);
-    --SmallBackGround:rgb(217, 228, 243);
     --GoClick: rgb(162, 175, 250);
 }
 
@@ -19,7 +17,6 @@
 body{
     font-size: 30px;
     background-image: url(../static/ParkingLotBack1Opa.jpg);
-    background-color:var(--BackGround);
     color:var(--Blue);
     font-family: MyFont;
 }
