@@ -1,0 +1,19 @@
+extends layout 
+
+append head
+    script(defer, src="static/scripts/main.js") 
+
+block content   
+    div.container
+        h1.mobile__headline ParkMeTLV
+        form(id="form", class="form", method="get")
+            label(for="CarType") Choose Your Car Type From The List:
+            select(name="CarType", id="CarType")
+                option( selected value="normal") Normal Car
+                option( value="disable") Disable Car
+                option( value="electric") Electric Car
+                option( value="member") Member Car
+            br
+            button(id="allowGeo") Allow Location Access
+            input(type="checkbox", id="checkbox", disabled)
+            button(class="button") P

@@ -1,0 +1,14 @@
+extends layout 
+
+append head
+    script(defer, src="static/scripts/findParking.js") 
+
+    
+block content   
+    div.container
+        form(id="find-parking", class="form",  method="get")
+            p Enter parkinglot you want to search:
+            input(type="text", id="searchName", name="searchName")
+            input(type="submit", class="button2"  value="SEARCH")
+            br
+            p(id="address") Address: 

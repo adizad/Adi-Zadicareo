@@ -1,0 +1,10 @@
+extends layout 
+
+append head
+    script(defer='' src='../static/scripts/leave.js')
+
+block content   
+    div.container
+        form(class="leave", method="POST")
+            h Please Press When You Leave
+            button(class="button", id="leaveBtn") L

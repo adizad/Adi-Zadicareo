@@ -1,0 +1,17 @@
+extends layout 
+
+append head
+    script(defer, src="static/scripts/auth.js") 
+
+block content
+    div.container
+        h1.mobile__headline ParkMeTLV
+        form( id="signup-form", class="form", class= "inputForm", method="post")
+            h2.signUp Sign Up
+            label(for="userName") User Name:
+            input(required, type="text", id="userName", name="userName", placeholder="User Name")
+            label(for="password") Password:
+            input(required, type="password", id="password", name="password", placeholder="Password")
+            button(class="button2") Join
+            p.signUp  Already have a user? 
+                a(href= "./signIn") Sign In

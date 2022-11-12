@@ -1,0 +1,20 @@
+extends layout 
+
+append head
+    script(defer='' src='../static/map.js')
+    script(type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false')
+
+block content
+    div.container.container__map
+        h1.mobile__headline ParkMeTLV
+        form(id="map-parking", class="form", method="get")
+            p1 Choose Your Parking Lot 
+            #map
+            p1 Do You Want To Find Parkinglot By Name? 
+                a(href= "./findParkingLot") Find
+
+
+
+
+
+

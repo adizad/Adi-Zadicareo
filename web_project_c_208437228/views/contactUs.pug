@@ -1,0 +1,16 @@
+extends layout 
+
+append head
+    script(defer='' src='../static/scripts/main.js')
+
+block content
+    div.container
+        h1.mobile__headline ParkMeTLV
+        form(class="form", class="form-contact-us", class= "inputForm", id="contact-us-form" method="POST")
+            h2.contact Contact Us
+            p.contact We Are Here For You! How Can We Help You?
+            label(for="email")
+            input(required, type="email", id="email", name="email", placeholder="Email")
+            label(for="message")
+            textarea(required, type="message", id="message", name="message", placeholder="Message")
+            button(class="button2", id="contactBtn") Send

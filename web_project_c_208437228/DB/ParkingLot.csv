@@ -1,0 +1,91 @@
+parkingLotID,Name,Address,numOfParkings,numOfNormalParkings,numOfNormalEmptyParkings,numOfDisableParkings,numOfDisableEmptyParkings,numOfElectricParkings,numOfElectricEmptyParkings,numOfMemberParkings,numOfMemberEmptyParkings,X,Y
+1,Achimair parking lot,Achimair Abba 28 Tel Aviv Jaffa,70,50,20,10,7,5,2,5,1,32.12420591,34.80408921
+2,Beit Tzuri parking lot,Beit Tzuri 20 Tel Aviv Jaffa,200,180,20,10,7,5,3,5,1,32.12302409,34.80054252
+3,Ben Yosef parking lot,Ben Yosef 22 Tel Aviv Jaffa,53,33,0,10,6,5,4,5,1,32.12599489,34.79846017
+4,Ben Yosef parking lot 2,Ben Yosef 15 Tel Aviv Jaffa,60,40,0,10,7,5,2,5,1,32.12553422,34.79791919
+5,Bnei Dan parking lot,Osishkin 7 Tel Aviv Jaffa,60,40,0,10,7,5,3,5,1,32.09579128,34.77842436
+6,Barzani parking lot,Barzani Moshe 15 Tel Aviv Jaffa,40,20,0,10,5,5,4,5,1,32.12837981,34.79821658
+7,Golfitec parking lot,Rokach 80 Tel Aviv Jaffa,397,377,100,10,7,5,5,5,1,32.10143068,34.80156435
+8,Yehoshua Gardens parking lot,Rokach 94 Tel Aviv Jaffa,1878,1858,100,10,7,5,1,5,1,32.10572687,34.81344791
+9,Hard parking lot,Hard 2 Tel Aviv Jaffa,94,74,20,10,7,5,3,5,1,32.11110899,34.84201195
+10,The grove parking lot,Isaac Ramba 2 Tel Aviv Jaffa,152,132,20,10,7,5,2,5,2,32.10685349,34.81341563
+11,The museum parking lot,Klausner 12 Tel Aviv - Jaffa,581,561,50,10,7,5,4,5,2,32.11365926,34.80755722
+12,The nursery parking lot,Moshe Wilensky 55 Tel Aviv Jaffa?,100,80,20,10,3,5,1,5,2,32.12742434,34.83658152
+13,Engineering parking lot,George Wise Tel Aviv-Yafo (entrance from the Broadcom building),163,143,20,10,5,5,2,5,2,32.10845563,34.80419613
+14,Tel Baruch beach parking lot,"Yitzhak Artzi 34, Tel-Aviv Jaffa",2000,1980,100,10,7,5,4,5,2,32.12275,34.78429182
+15,Tagore parking lot,Tagore Alley 38 Tel Aviv Jaffa,153,133,30,10,6,5,5,5,2,32.11692171,34.79780982
+16,Yad Avner parking lot,Kommiat 24 Tel Aviv Jaffa,40,20,0,10,7,5,2,5,2,32.11942153,34.80539275
+17,Economy parking lot,George Wise 16 Tel Aviv Jaffa,114,94,20,10,3,5,1,5,3,32.10858441,34.80280703
+18,Mivtza Kadesh parking lot,"Operation Kadesh, corner of Bnei Ephraim 220 Tel-Aviv Jaffa",350,330,30,10,7,5,4,5,3,32.11366002,34.81615289
+19,Social science parking lot,George Weisz corner of Haim Levanon Tel Aviv-Yafo (Complex Un' 493),250,230,50,10,7,5,3,5,3,32.11063509,34.80274747
+20,Tudela parking lot,16 Binyamin Matodla Tel Aviv Jaffa,65,45,10,10,2,5,1,5,3,32.10962382,34.82738966
+21,Mi veMi parking lot,Moshe Sena 54 Tel Aviv Jaffa,70,50,20,10,7,5,5,5,3,32.12457591,34.82499897
+22,College of Administration and Levinsky College parking lot 1,Shoshana Persits 9 Tel Aviv Jaffa,21,20,0,1,1,0,0,0,0,32.13464909,34.7962964
+23,College of Administration and Levinsky College parking lot 2,Shoshana Persits 9 Tel Aviv Jaffa,114,94,20,10,0,5,0,5,2,32.13426329,34.79530812
+24,College of Administration and Levinsky College parking lot 3,Shoshana Persits 9 Tel Aviv Jaffa,214,194,20,10,4,5,1,5,2,32.13787005,34.79803325
+25,Mirsham parking lot,"25 Kalchkin, Tel-Aviv, Jaffa",60,40,0,10,1,5,3,5,2,32.11758625,34.80680724
+26,Copper garage,Hanoshet 1 A Tel-Aviv Jaffa,386,366,50,10,5,5,2,5,2,32.10926736,34.83819586
+27,Social parking lot (dormitory),Shebat Binyamin 1 Tel Aviv Jaffa,95,75,20,10,6,5,0,5,2,32.1084325,34.80420482
+28,Smolrash parking lot,George Wise 16 Tel Aviv Jaffa,68,48,15,10,2,5,4,5,2,32.10935191,34.80364393
+29,Ir Shemesh parking lot,Iir Shemesh 40 Tel Aviv Jaffa,502,482,40,10,3,5,2,5,2,32.12459805,34.82785864
+30,Pinchas Rosen parking lot,Pinchas Rosen 51 Tel Aviv Jaffa,139,119,20,10,5,5,1,5,2,32.11368443,34.82520409
+31,Reading East parking lot,Pharmacist 15 Tel Aviv Jaffa,140,120,20,10,1,5,0,5,2,32.10051124,34.78106764
+32,Reading West car park,Pharmacist 7 Tel Aviv Jaffa,454,434,80,10,7,5,4,5,2,32.09912687,34.77845553
+33,Dental parking lot,Kalchkin 4 Tel Aviv Jaffa,113,93,30,10,0,5,1,5,2,32.11776462,34.80437704
+34,Rafidim parking lot,Rafidim 7 Tel Aviv Jaffa,100,80,20,10,8,5,3,5,2,32.10962069,34.81259445
+35,Shalonsky parking lot,16 Shalonsky Tel Aviv Jaffa,84,64,20,10,6,5,2,5,2,32.11805116,34.81846635
+36,Tel Baruch parking lot,Becker Aharon 18 Tel Aviv Jaffa,80,60,20,10,0,5,0,5,2,32.12250588,34.81756693
+37,Asuta parking lot,Jabotinsky 62 Tel Aviv Jaffa,100,80,30,10,4,5,2,5,2,32.0884294,34.77995637
+38,Arlozorov parking lot - park and ride,On Crossroads 1 Tel Aviv-Jaffa,679,659,200,10,0,5,1,5,2,32.0843038,34.79550904
+39,Arlozorov parking lot 17,Arlozorov 17 Tel Aviv Jaffa,162,142,30,10,3,5,4,5,2,32.08739222,34.7737278
+40,Basel parking lot,Ashtori Farhari 5 Tel Aviv-Yafo,193,173,20,10,0,5,3,5,2,32.0900223,34.78004193
+41,Beit Hadar parking lot,Train 3 Tel Aviv-Jaffa,585,565,100,10,2,5,2,5,2,32.06394275,34.77704008
+42,Broria parking lot,Yigal Alon 151 Tel Aviv Jaffa,235,215,30,10,4,5,1,5,2,32.07800306,34.79659189
+43,Golda parking lot,7 Berkowitz St. Tel Aviv Jaffa,937,917,100,10,6,5,5,5,2,32.0777353,34.78577142
+44,Dubnov parking lot,Dubnov 4 Tel Aviv Jaffa,110,90,20,10,2,5,1,5,2,32.07414618,34.78381369
+45,The defense parking lot,Harsham 4 Tel Aviv Jaffa,250,230,50,10,5,5,2,5,2,32.05527128,34.78352114
+46,The electric parking lot,Levontin 20 Tel Aviv Jaffa,30,22,0,5,1,1,0,2,2,32.06218248,34.77629319
+47,The campaign parking lot,Campaign 10 Tel Aviv Jaffa,55,35,0,10,2,5,1,5,2,32.0614505,34.79312427
+48,The siren parking lot 1,Tsefirah 2 Tel Aviv Jaffa,66,46,15,10,1,5,1,5,3,32.06235459,34.78090588
+49,The siren parking lot 2,Zifira 8 Tel Aviv Jaffa,113,93,20,10,5,5,1,5,4,32.06167957,34.78127923
+50,Rabbi Kook parking lot,Rabbi Kook corner Harry Tel Aviv-Yafo,70,50,20,10,3,5,2,5,5,32.0708341,34.76823323
+51,The train parking lot,Train 20 Tel Aviv-Jaffa,20,18,0,2,0,0,0,0,0,32.06331384,34.77805029
+52,The cultural parking lot,Huberman 1 Tel Aviv Jaffa,997,977,100,10,3,5,1,5,2,32.07218738,34.7801022
+53,Wolfson parking lot,HaShalom 120 Tel Aviv Jaffa,198,178,50,10,2,5,1,5,3,32.05893332,34.80764116
+54,Wolfson parking lot 2,The pilots 39 Tel Aviv Jaffa,100,80,20,10,5,5,1,5,4,32.05693871,34.80631368
+55,New company parking lot,New company 9 Tel Aviv Jaffa,66,46,15,10,1,5,1,5,1,32.0848002,34.79022774
+56,Carmel parking lot 1,"Kalisher, corner of Carmel, Tel Aviv-Yafo",243,223,50,10,0,5,0,5,5,32.06858782,34.76615115
+57,Carmel parking lot 2,Carmel Alley 12 Tel Aviv,142,122,20,10,4,5,1,5,1,32.06821703,34.76581959
+58,Loop parking lot,Crossroads 10 Tel Aviv,203,183,20,10,3,5,2,5,2,32.08191431,34.79973182
+59,Laskov parking lot (Bnei Brit),Laskov 28 Tel Aviv Jaffa,57,37,0,10,0,5,0,5,1,32.07323916,34.78367104
+60,Montefiore parking lot,Montefiori 5 Tel Aviv Jaffa,30,20,0,5,1,3,0,2,1,32.0647775,34.76948066
+61,Lottery parking lot,Leonardo da Vinci 5 Tel Aviv Jaffa,80,60,20,10,6,5,2,5,1,32.07288066,34.78451779
+62,Cinerama parking lot,Yitzhak Sade 45 Tel Aviv Jaffa,309,289,40,10,5,5,4,5,2,32.0650632,34.78283433
+63,Saadia Gaon parking lot,Ziklag 7 Tel Aviv Jaffa,67,47,15,10,0,5,0,5,3,32.06710878,34.78283433
+64,Sapir parking lot,Eliyahu Sapir Tel Aviv Jaffa,40,30,0,5,2,3,1,2,0,32.07511869,34.77856933
+65,The school refugee parking lot,The refugees of the book corner of Blood of the Maccabims Tel Aviv Jaffa,27,20,0,5,1,2,0,0,0,32.06953593,34.80054444
+66,Palmach parking lot,Yigal Alon 68 Tel Aviv Jaffa,150,130,40,10,5,5,1,5,1,32.06296815,34.79254391
+67,Top parking lot,1 Alexander Boskowitz St. Tel Aviv-Yafo,168,148,50,10,2,5,0,5,2,32.08676544,34.79624163
+68,Ravnitsky parking lot,6 Rabnitsky St. Tel Aviv Jaffa,80,60,20,10,4,5,2,5,3,32.06606686,34.78983482
+69,Ramez-Arlozorov parking lot,Hint 1 Tel Aviv Jaffa,210,190,40,10,6,5,1,5,4,32.08524619,34.7857689
+70,Sheraton parking lot,Hanamal 1 Tel Aviv Jaffa,69,49,15,10,0,5,2,5,5,32.09429909,34.77247118
+71,Tel Nordau parking lot,Frishman 28 Tel Aviv Jaffa,171,151,50,10,1,5,3,5,1,32.07978099,34.77178127
+72,Takuma parking lot,The Rebellion 36 Tel-Aviv Jaffa,38,30,0,5,3,2,1,1,0,32.06489871,34.76450054
+73,Champion parking lot,Ben Hail corner champion,115,95,20,10,2,5,1,5,3,32.05203345,34.79796168
+74,Alfasi parking lot,Alfasi Yitzhak 12 Tel Aviv Jaffa,30,25,0,5,0,0,0,0,0,32.0503772,34.76417412
+75,Beit HaTzel parking lot,Nahum Goldman 13 Tel Aviv Jaffa,260,240,30,10,3,5,2,5,1,32.05606293,34.75566697
+76,Gali IDF parking lot,Yehuda Hamit 21 Tel Aviv Jaffa,50,40,0,5,1,3,1,2,0,32.05108916,34.75688926
+77,The Conquerors Garden parking lot 1 - Mizrah,Levi Yosef Gonder 5 Tel Aviv Jaffa,172,152,40,10,2,5,1,5,2,32.06598423,34.7641847
+78,The Conquerors' Garden parking lot 2 - West,Levi Yosef Gonder 3 Tel Aviv - Jaffa,46,40,0,5,0,0,0,1,0,32.06697643,34.76378647
+79,The Beshat parking lot,Beshat corner of Yafet 171 Tel-Aviv Jaffa,80,60,20,10,2,5,2,5,2,32.03779202,34.75421695
+80,The fighters parking lot,The Warriors 15 Tel Aviv Jaffa,260,240,50,10,3,5,2,5,4,32.03695509,34.76308979
+81,The station parking lot,Hamerd corner Koipman Yehezkel 65 Tel Aviv Jaffa,620,600,100,10,4,5,2,5,3,32.06010634,34.76103621
+82,Alia Square parking lot,Tselanov 22 Tel Aviv Jaffa,260,240,60,10,1,5,2,5,1,32.05783779,34.77474074
+83,Liber parking lot,Pines 41 Tel Aviv Jaffa,50,40,0,5,1,3,1,2,1,32.06018151,34.76803145
+84,Jaffa College parking lot,"Rabbi Yeruham 12, corner of the League of Nations 5, Tel-Aviv, Jaffa",400,380,50,10,0,5,2,5,2,32.04652219,34.75973115
+85,Mard parking lot,The Rebellion 32 Tel-Aviv Jaffa,51,40,0,5,1,4,1,2,1,32.0642071,34.76427797
+86,Parking centers,The current 12 Tel Aviv Jaffa,200,180,40,10,2,5,1,5,1,32.05117419,34.76721875
+87,Ein Yaakov parking lot,Koipman 16 Tel Aviv Jaffa,205,185,45,10,3,5,2,5,1,32.06300497,34.76357255
+88,Zvi Nishri parking lot,Zvi Neshri 2 Tel Aviv Jaffa,18,15,0,3,1,0,0,0,0,32.05434622,34.80084726
+89,The end of the boulevard parking lot (Rothschild 1),Sderot Rothschild 1 Tel Aviv Jaffa,390,370,80,10,1,5,2,5,1,32.06305649,34.76922383
+90,Laskov parking lot (Bnei Brit),Laskov 28 Tel Aviv Jaffa,57,50,20,5,1,2,1,0,0,32.07306216,34.78369989
